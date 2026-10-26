@@ -12,6 +12,6 @@ A responsive personal CV website showcasing the education, skills, achievements,
 Ed Anthony Medina
 
 ## Live Vercel Link
-https://your-cv-project.vercel.app
+https://ed-curriculum-vitae.vercel.app/#profile
 
 > Replace the URL above with the live Vercel deployment URL once the project is published.
